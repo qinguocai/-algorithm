@@ -1,4 +1,4 @@
-package com.caiqinguo.algorithm.traversal.bfs;
+package com.caiqinguo.algorithm.search.bfs;
 
 /**
  * 树的前序遍历

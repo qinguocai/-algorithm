@@ -45,32 +45,32 @@ public class SinglyLinkedList<E> {
         }
     }
 
-    public void add(int i, E e) {
-        Node<E> node = new Node<>(e);
-        Node<E> p = head;
-        int j = 0;
-        while (() && ()) {
+//    public void add(int i, E e) {
+//        Node<E> node = new Node<>(e);
+//        Node<E> p = head;
+//        int j = 0;
+//        while (() && ()) {
+//
+//        }
+//        if (j ) {
+//
+//        } else {
+//            throw new RuntimeException("illegal index " + i + ", size is " + )
+//        }
+//    }
 
-        }
-        if (j ) {
-
-        } else {
-            throw new RuntimeException("illegal index " + i + ", size is " + )
-        }
-    }
-
-    public E get(int i) {
-        Node<E> p = head;
-        while ((i > 0) && ()) {
-            p = p.next;
-            i--;
-        }
-        if (i == 0) {
-            return p.data;
-        } else {
-            throw new RuntimeException("illegal index " + i + ", size is " + )
-        }
-    }
+//    public E get(int i) {
+//        Node<E> p = head;
+//        while ((i > 0) && ()) {
+//            p = p.next;
+//            i--;
+//        }
+//        if (i == 0) {
+//            return p.data;
+//        } else {
+//            throw new RuntimeException("illegal index " + i + ", size is " + )
+//        }
+//    }
 
     public int indexOf(E e) {
 

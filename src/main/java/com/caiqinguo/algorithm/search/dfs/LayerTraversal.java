@@ -1,4 +1,4 @@
-package com.caiqinguo.algorithm.traversal.dfs;
+package com.caiqinguo.algorithm.search.dfs;
 
 /**
  * 树的深度优先遍历

@@ -46,40 +46,40 @@ public class SinglyLinkedListWithHeadNodeAndTail<E> {
 
     }
 
-    public E get(int i) {
-
-    }
-
-    public int indexOf(E e) {
-
-    }
-
-    public int lastIndexOf(E e) {
-
-    }
-
-    public boolean contains(E e) {
-
-    }
-
-    public void set(int i, E e) {
-
-    }
-
-    public void remove(int i) {
-
-    }
-
-    public void remove(E e) {
-        Node<E> p = head;
-        while (p.next != null) {
-            if (e == null) {
-                if (p.data == null)
-            } else if (e.equals(p.data)) {
-
-            }
-        }
-    }
+//    public E get(int i) {
+//
+//    }
+//
+//    public int indexOf(E e) {
+//
+//    }
+//
+//    public int lastIndexOf(E e) {
+//
+//    }
+//
+//    public boolean contains(E e) {
+//
+//    }
+//
+//    public void set(int i, E e) {
+//
+//    }
+//
+//    public void remove(int i) {
+//
+//    }
+//
+//    public void remove(E e) {
+//        Node<E> p = head;
+//        while (p.next != null) {
+//            if (e == null) {
+//                if (p.data == null)
+//            } else if (e.equals(p.data)) {
+//
+//            }
+//        }
+//    }
 
     public void removeAll(E e) {
 
