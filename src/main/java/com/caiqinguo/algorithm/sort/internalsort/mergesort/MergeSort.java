@@ -1,6 +1,6 @@
 package com.caiqinguo.algorithm.sort.internalsort.mergesort;
 
-import com.caiqinguo.algorithm.DivideAndConquer;
+import com.caiqinguo.algorithm.thinking.DivideAndConquer;
 
 /**
  * 归并排序

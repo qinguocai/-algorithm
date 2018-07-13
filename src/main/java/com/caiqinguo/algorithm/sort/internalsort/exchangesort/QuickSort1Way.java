@@ -1,6 +1,6 @@
 package com.caiqinguo.algorithm.sort.internalsort.exchangesort;
 
-import com.caiqinguo.algorithm.DivideAndConquer;
+import com.caiqinguo.algorithm.thinking.DivideAndConquer;
 
 /**
  * 快速排序
